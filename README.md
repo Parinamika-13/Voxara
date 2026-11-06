@@ -1,4 +1,4 @@
-# Swarajya AI (स्वराज्य AI)
+# Voxara — A Voice-First Multilingual AI Assistant
 
 > Voice-first, AI-assisted information system delivering accurate, grounded answers for Student Services & Scholarships.
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**Swarajya AI** is a voice-first conversational AI assistant built for the **Great Indian AI Internship Challenge**. It bridges the gap between complex official procedures and users by allowing queries in spoken natural or code-mixed language and providing clear, audible, factually grounded answers.
+**Voxara** is a voice-first conversational AI assistant built for the **Great Indian AI Internship Challenge**. It bridges the gap between complex official procedures and users by allowing queries in spoken natural or code-mixed language and providing clear, audible, factually grounded answers.
 
 ### End-to-End Pipeline
 ```text
